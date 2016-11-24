@@ -2,7 +2,8 @@
 error_reporting(0);
 
 include "koneksi.php";
-
+// hhhhhhhh
+// hhhh
 echo "<h2>Uji</h2>
 				<form method=POST action='aksi.php' enctype='multipart/form-data'>
 					<table>
